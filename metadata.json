@@ -1,0 +1,8 @@
+{
+  "name": "Blog Pribadi Natasya",
+  "description": "Sebuah blog pribadi uji coba untuk Natasya, wanita asal Bangka Belitung, yang membagikan cerita travel pantai, resep kuliner khas Lempah Kuning, tradisi lokal, serta didukung chatbot AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
